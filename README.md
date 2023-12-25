@@ -8,7 +8,7 @@
 # 💻 Tech Stack:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Adobe](https://img.shields.io/badge/adobe-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) 
+![Adobe](https://img.shields.io/badge/adobe-%2331A8FF.svg?style=for-the-badge&logo=adobe&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
 ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
